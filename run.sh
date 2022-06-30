@@ -21,6 +21,9 @@
   14 git push
   15 git commit -m "new"
   16 git push
+  #change any content file
+    36  git commit -m "new"
+  37 git push
   #can you add branch or create branch 
   17 git checkout -b main
    18 git checkout -b hanan
