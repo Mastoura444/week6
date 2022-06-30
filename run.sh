@@ -21,3 +21,16 @@
   14 git push
   15 git commit -m "new"
   16 git push
+  #can you add branch or create branch 
+  17 git checkout -b main
+   18 git checkout -b hanan
+   # link between remote and branch
+   19 git push origin hanan
+# add one file in brach specife 
+1- git add namefile
+2- git commit -m "name change"
+3- git push nameyourremote namebranch 
+ex:
+git add taik.txt
+git commit -m "taik"
+**git push origin hanan
