@@ -13,3 +13,11 @@
   13        0.102 git commit -m "first commit"
   14        2.340  git push --set-upstream origin master
   15        0.128 history
+
+  -------------
+  11 git push origin run.sh
+  12 git push origin
+  13 git add run.sh
+  14 git push
+  15 git commit -m "new"
+  16 git push
