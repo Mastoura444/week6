@@ -22,6 +22,8 @@
   15 git commit -m "new"
   16 git push
   #change any content file
+
+  git add name filechange
     36  git commit -m "new"
   37 git push
   #can you add branch or create branch 
@@ -37,3 +39,5 @@ ex:
 git add taik.txt
 git commit -m "taik"
 **git push origin hanan
+
+git checkout -b <branch-name> # Create a new branch and check it out
