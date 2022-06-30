@@ -25,7 +25,6 @@
 
   git add name filechange
     36  git commit -m "new"
-  37 git push
   #can you add branch or create branch 
   17 git checkout -b main
    18 git checkout -b hanan
